@@ -1,6 +1,6 @@
 # Recipe Collection Platform
 
-This project is a full-stack web application built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js) for managing and sharing recipes. It incorporates user authentication, CRUD operations, and dynamic data fetching to allow users to create, view, update, and delete recipes. The platform ensures a secure and responsive user experience through the integration of JWT-based authentication and a clean, modern frontend design.
+This project is a full-stack web application built using the **MERN** stack (MongoDB, Express.js, React.js, Node.js) for creating and saving recipes. It incorporates user authentication, CRUD operations, and dynamic data fetching to allow users to create, view, update, and delete recipes. The platform ensures a secure and responsive user experience through the integration of JWT-based authentication and a clean, modern frontend design.
 
 ## Table of Contents
 1. [Features](#features)
