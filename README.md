@@ -6,12 +6,6 @@ This project is a full-stack web application built using the **MERN** stack (Mon
 1. [Features](#features)
 2. [Tech Stack](#tech-stack)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [API Routes](#api-routes)
-6. [Authentication Flow](#authentication-flow)
-7. [Challenges Faced](#challenges-faced)
-8. [Deployment](#deployment)
-9. [License](#license)
 
 ## Features
 - **User Registration and Login**: Users can sign up and log in to the platform securely using JWT-based authentication.
